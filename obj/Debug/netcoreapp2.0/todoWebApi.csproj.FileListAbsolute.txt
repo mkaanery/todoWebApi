@@ -1,0 +1,12 @@
+/Users/kaan/Projects/todoWebApi/bin/Debug/netcoreapp2.0/libe_sqlite3.dylib
+/Users/kaan/Projects/todoWebApi/bin/Debug/netcoreapp2.0/todoWebApi.deps.json
+/Users/kaan/Projects/todoWebApi/bin/Debug/netcoreapp2.0/todoWebApi.runtimeconfig.json
+/Users/kaan/Projects/todoWebApi/bin/Debug/netcoreapp2.0/todoWebApi.runtimeconfig.dev.json
+/Users/kaan/Projects/todoWebApi/bin/Debug/netcoreapp2.0/todoWebApi.dll
+/Users/kaan/Projects/todoWebApi/bin/Debug/netcoreapp2.0/todoWebApi.pdb
+/Users/kaan/Projects/todoWebApi/obj/Debug/netcoreapp2.0/todoWebApi.csprojResolveAssemblyReference.cache
+/Users/kaan/Projects/todoWebApi/obj/Debug/netcoreapp2.0/todoWebApi.csproj.CoreCompileInputs.cache
+/Users/kaan/Projects/todoWebApi/obj/Debug/netcoreapp2.0/todoWebApi.AssemblyInfoInputs.cache
+/Users/kaan/Projects/todoWebApi/obj/Debug/netcoreapp2.0/todoWebApi.AssemblyInfo.cs
+/Users/kaan/Projects/todoWebApi/obj/Debug/netcoreapp2.0/todoWebApi.dll
+/Users/kaan/Projects/todoWebApi/obj/Debug/netcoreapp2.0/todoWebApi.pdb
