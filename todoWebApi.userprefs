@@ -1,12 +1,8 @@
 ﻿<Properties StartupConfiguration="{572EE48A-F80B-4BB8-9285-3E816184234E}|Default">
   <MonoDevelop.Ide.ItemProperties.todoWebApi PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/TodoController.cs">
     <Files>
-      <File FileName="Models/TodoItem.cs" Line="5" Column="6" />
-      <File FileName="Models/TodoContext.cs" Line="13" Column="9" />
-      <File FileName="Startup.cs" Line="12" Column="26" />
-      <File FileName="Controllers/TodoController.cs" Line="27" Column="11" />
-      <File FileName="Program.cs" Line="17" Column="1" />
+      <File FileName="Controllers/TodoController.cs" Line="53" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
