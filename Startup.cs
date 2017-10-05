@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using todoWebApi.Models;
 
-namespace TodoApi
+namespace todoWebApi
 {
 	public class Startup
 	{
